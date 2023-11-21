@@ -4,7 +4,8 @@ FN;CHARSET=UTF-8:Francesco Cirillo
 N;CHARSET=UTF-8:Francesco;Cirillo;;;
 EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:francesco.cirillo@wiwaag.ch
 TEL;TYPE=CELL:+41 76 540 45 05
-ADR;CHARSET=UTF-8;TYPE=HOME:;;Maurerstrasse 8;8500 Frauenfeld;;;Schweiz
+ADR;CHARSET=UTF-8;TYPE=HOME:;;Maurerstrasse 8;8500 Frauenfeld;Schweiz
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Archpl. 2, 8400 Winterthur;Schweiz
 TITLE;CHARSET=UTF-8:Projektleiter
 ORG;CHARSET=UTF-8:WIWA AG
 URL;CHARSET=UTF-8:www.wiwaag.ch
